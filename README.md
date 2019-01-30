@@ -1,10 +1,10 @@
-# Cleaning-Cornell-Movie-Corpus-dataset
+# Cleaning-Cornell-Movie-Corpus-data
 This repository contains the steps of cleaning Cornell Movie corpus. the procedure which is given here can be applied to any kind of document data as well for texts cleaning purpose.
 Cornell movie corpus data set contains more than 600 movies containing thousands of conversations between lots of characters. the goal here is to clean the movies_lines and movie_lines for better use in training of some Deep natural language processing models such as seq2seq model, chatbot and so on. later we will compare both uncleaned and cleaned lines&conversations after preprocessing.
 
 DATA PREPROCESSING STEPS:
-1. Importing the libraries
-2. Importing the dataset
+1. Importing the libraries ( re library which used in cleaning of texts) 
+2. Importing the dataset (use the open function to load all the movies lines and conversations)
 3. Creating a dictionary that maps each line and its id
 4. Creating a list of all of the conversations 
 5. Getting separately the questions and the answers
