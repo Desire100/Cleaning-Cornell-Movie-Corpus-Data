@@ -20,4 +20,4 @@ Cornell movie corpus data set contains more than 600 movies containing thousands
 #### 15. Translating all the questions and the answers into integers and Replacing all the words that were filtered out by <OUT>
 #### 16. Sorting questions and answers by the length of questions.
   
-  Compare uncleaned data and cleaned one
+ ## Compare uncleaned data and cleaned one
